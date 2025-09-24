@@ -111,8 +111,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **AdrishikharChowdhury**
 - GitHub: [AdrishikharChowdhury](https://github.com/AdrishikharChowdhury)
-- LinkedIn: [Connect with me](https://linkedin.com/in/adrishikharchowdhury)
-- Portfolio: [View my work](https://adrishikhar.dev)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/adrishikhar-chowdhury/)
+- Portfolio: [View my work](https://adrishikharchowdhury.netlify.app)
 
 ---
 
